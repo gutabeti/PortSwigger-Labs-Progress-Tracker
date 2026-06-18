@@ -1,18 +1,18 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-6-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--17-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-5%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-8-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--18-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-6.66%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 2 of 61
-- **Practitioner**: 4 of 174
+- **Practitioner**: 6 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 0/14 lab
-- **SQL injection**: 6/18 lab
+- **SQL injection**: 8/18 lab
 - **Access control**: 0/13 lab
 
 ## Notes
@@ -36,7 +36,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |----|------------|----------------|---------------------------------------------|-------------|--------------|
 | 1 | 2026-06-15 | SQL Injection | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Apprentice | N/A |
 | 2 | 2026-06-15 | SQL Injection | SQL injection vulnerability allowing login bypass | Apprentice | N/A |
-| 3 | 2026-06-16 | SQL Injection | SQL injection UNION attack, determining the number of columns returned by the query |Practitioner | N/A |
-| 4 | 2026-06-16 | SQL Injection | SQL injection UNION attack, finding a column containing text |Practitioner | N/A |
-| 5 | 2026-06-17 | SQL Injection | SQL injection UNION attack, retrieving data from other tables |Practitioner | N/A |
-| 6 | 2026-06-17 | SQL Injection | SQL injection UNION attack, retrieving multiple values in a single column |Practitioner | N/A |
+| 3 | 2026-06-16 | SQL Injection | SQL injection UNION attack, determining the number of columns returned by the query | Practitioner | N/A |
+| 4 | 2026-06-16 | SQL Injection | SQL injection UNION attack, finding a column containing text | Practitioner | N/A |
+| 5 | 2026-06-17 | SQL Injection | SQL injection UNION attack, retrieving data from other tables | Practitioner | N/A |
+| 6 | 2026-06-17 | SQL Injection | SQL injection UNION attack, retrieving multiple values in a single column | Practitioner | N/A |
+| 7 | 2026-06-18 | SQL Injection | Blind SQL injection with conditional responses | practitioner | N/A |
+| 8 | 2026-06-18 | SQL Injection | Blind SQL injection with conditional errors | practitioner | N/A |
