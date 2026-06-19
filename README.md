@@ -1,18 +1,18 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-8-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--18-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-6.66%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-11-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--19-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-9.17%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 2 of 61
-- **Practitioner**: 6 of 174
+- **Practitioner**: 9 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 0/14 lab
-- **SQL injection**: 8/18 lab
+- **SQL injection**: 11/18 lab
 - **Access control**: 0/13 lab
 
 ## Notes
@@ -42,3 +42,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 6 | 2026-06-17 | SQL Injection | SQL injection UNION attack, retrieving multiple values in a single column | Practitioner | N/A |
 | 7 | 2026-06-18 | SQL Injection | Blind SQL injection with conditional responses | practitioner | N/A |
 | 8 | 2026-06-18 | SQL Injection | Blind SQL injection with conditional errors | practitioner | N/A |
+| 9 | 2026-06-19 | SQL Injection | Visible error-based SQL injection | practitioner | N/A |
+| 10 | 2026-06-19 | SQL Injection | Blind SQL injection with time delays | practitioner | N/A |
+| 11 | 2026-06-19 | SQL Injection | Blind SQL injection with time delays and information retrieval | practitioner | N/A |
