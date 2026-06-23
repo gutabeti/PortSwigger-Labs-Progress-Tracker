@@ -51,5 +51,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 15 | 2026-06-21 | SQL Injection | SQL injection attack, listing the database contents on non-Oracle databases | Practitioner | N/A |
 | 16 | 2026-06-21 | SQL Injection | SQL injection attack, listing the database contents on Oracle | Practitioner | N/A |
 | 17 | 2026-06-21 | SQL Injection | Blind SQL injection with out-of-band interaction | Practitioner | N/A |
-| 18 | 2026-06-21 | Authentication | Username enumeration via different responses | Apprentice | N/A |
-| 19 | 2026-06-21 | Authentication | Username enumeration via subtly different responses | Practitioner | N/A |
+| 18 | 2026-06-23 | Authentication | Username enumeration via different responses | Apprentice | N/A |
+| 19 | 2026-06-23 | Authentication | Username enumeration via subtly different responses | Practitioner | N/A |
