@@ -1,17 +1,17 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-19-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--23-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-15.83%%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-22-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--24-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-18.33%%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 3 of 61
-- **Practitioner**: 16 of 174
+- **Apprentice**: 4 of 61
+- **Practitioner**: 18 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
-- **Authentication vulnerabilities**: 2/14 lab
+- **Authentication vulnerabilities**: 5/14 lab
 - **SQL injection**: 17/18 lab
 - **Access control**: 0/13 lab
 
@@ -53,3 +53,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 17 | 2026-06-21 | SQL Injection | Blind SQL injection with out-of-band interaction | Practitioner | N/A |
 | 18 | 2026-06-23 | Authentication | Username enumeration via different responses | Apprentice | N/A |
 | 19 | 2026-06-23 | Authentication | Username enumeration via subtly different responses | Practitioner | N/A |
+| 20 | 2026-06-24 | Authentication | 2FA simple bypass | Apprentice | N/A |
+| 21 | 2026-06-24 | Authentication | 2FA broken logic | Practitioner | N/A |
+| 22 | 2026-06-24 | Authentication | Brute-forcing a stay-logged-in cookie | Practitioner | N/A |
