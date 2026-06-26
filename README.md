@@ -1,17 +1,17 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-22-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--24-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-18.33%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-29-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--26-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-24.17%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 4 of 61
-- **Practitioner**: 18 of 174
+- **Apprentice**: 5 of 61
+- **Practitioner**: 24 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
-- **Authentication vulnerabilities**: 5/14 lab
+- **Authentication vulnerabilities**: 12/14 lab
 - **SQL injection**: 17/18 lab
 - **Access control**: 0/13 lab
 
@@ -56,3 +56,10 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 20 | 2026-06-24 | Authentication | 2FA simple bypass | Apprentice | N/A |
 | 21 | 2026-06-24 | Authentication | 2FA broken logic | Practitioner | N/A |
 | 22 | 2026-06-24 | Authentication | Brute-forcing a stay-logged-in cookie | Practitioner | N/A |
+| 23 | 2026-06-26 | Authentication | Offline password cracking | Practitioner | N/A |
+| 24 | 2026-06-26 | Authentication | Password reset broken logic | Apprentice | N/A |
+| 25 | 2026-06-26 | Authentication | Password reset poisoning via middleware | Practitioner | N/A |
+| 26 | 2026-06-26 | Authentication | Password brute-force via password change | Practitioner | N/A |
+| 27 | 2026-06-26 | Authentication | Username enumeration via account lock | Practitioner | N/A |
+| 28 | 2026-06-26 | Authentication | Username enumeration via response timing | Practitioner | N/A |
+| 29 | 2026-06-26 | Authentication | Broken brute-force protection, IP block | Practitioner | N/A |
