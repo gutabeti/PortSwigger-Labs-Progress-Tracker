@@ -1,19 +1,19 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-33-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--30-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-27.5%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-37-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--01-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-30.83%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 6 of 61
-- **Practitioner**: 25 of 174
+- **Practitioner**: 29 of 174
 - **Expert**: 2 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 14/14 lab
 - **SQL injection**: 17/18 lab
-- **Path traversal**: 2/6 lab
+- **Path traversal**: 6/6 lab
 - **Access control**: 0/13 lab
 
 ## Notes
@@ -68,3 +68,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 31 | 2026-06-28 | Authentication | 2FA bypass using a brute-force attack | Expert | N/A |
 | 32 | 2026-06-30 | Path Traversal | File path traversal, traversal sequences blocked with absolute path bypass | Practitioner | N/A |
 | 33 | 2026-06-30 | Path Traversal | File path traversal, simple case | Apprentice | N/A |
+| 34 | 2026-07-01 | Path Traversal | File path traversal, traversal sequences stripped non-recursively | Practitioner | N/A |
+| 35 | 2026-07-01 | Path Traversal | File path traversal, traversal sequences stripped with superfluous URL-decode | Practitioner | N/A |
+| 36 | 2026-07-01 | Path Traversal | File path traversal, validation of start of path | Practitioner | N/A |
+| 37 | 2026-07-01 | Path Traversal | File path traversal, validation of file extension with null byte bypass | Practitioner | N/A |
