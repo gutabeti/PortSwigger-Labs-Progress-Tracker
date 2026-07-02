@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-37-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--01-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-30.83%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-40-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--02-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-14.60%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 6 of 61
-- **Practitioner**: 29 of 174
+- **Apprentice**: 7 of 61
+- **Practitioner**: 31 of 174
 - **Expert**: 2 of 39
 
 ## Categories Covered
@@ -14,6 +14,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Authentication vulnerabilities**: 14/14 lab
 - **SQL injection**: 17/18 lab
 - **Path traversal**: 6/6 lab
+- **Command injection**: 3/5 lab
 - **Access control**: 0/13 lab
 
 ## Notes
@@ -72,3 +73,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 35 | 2026-07-01 | Path Traversal | File path traversal, traversal sequences stripped with superfluous URL-decode | Practitioner | N/A |
 | 36 | 2026-07-01 | Path Traversal | File path traversal, validation of start of path | Practitioner | N/A |
 | 37 | 2026-07-01 | Path Traversal | File path traversal, validation of file extension with null byte bypass | Practitioner | N/A |
+| 38 | 2026-07-02 | Command Injection | OS command injection, simple case | Apprentice | N/A |
+| 39 | 2026-07-02 | Command Injection | Blind OS command injection with time delays | Practitioner | N/A |
+| 40 | 2026-07-02 | Command Injection | Blind OS command injection with output redirection | Practitioner | N/A |
