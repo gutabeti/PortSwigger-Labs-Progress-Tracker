@@ -1,20 +1,20 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-40-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--02-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-14.60%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-43-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--03-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-15.69%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 7 of 61
-- **Practitioner**: 31 of 174
+- **Practitioner**: 34 of 174
 - **Expert**: 2 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 14/14 lab
-- **SQL injection**: 17/18 lab
+- **SQL injection**: 18/18 lab
 - **Path traversal**: 6/6 lab
-- **Command injection**: 3/5 lab
+- **Command injection**: 5/5 lab
 - **Access control**: 0/13 lab
 
 ## Notes
@@ -76,3 +76,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 38 | 2026-07-02 | Command Injection | OS command injection, simple case | Apprentice | N/A |
 | 39 | 2026-07-02 | Command Injection | Blind OS command injection with time delays | Practitioner | N/A |
 | 40 | 2026-07-02 | Command Injection | Blind OS command injection with output redirection | Practitioner | N/A |
+| 41 | 2026-07-03 | Command Injection | Blind OS command injection with out-of-band interaction | Practitioner | N/A |
+| 42 | 2026-07-03 | Command Injection | Blind OS command injection with out-of-band data exfiltration | Practitioner | N/A |
+| 43 | 2026-07-03 | SQL Injection | Blind SQL injection with out-of-band data exfiltration | Practitioner | N/A |
