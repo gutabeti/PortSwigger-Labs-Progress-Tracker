@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-43-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--03-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-15.69%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-49-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--04-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-17.88%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 7 of 61
-- **Practitioner**: 34 of 174
+- **Apprentice**: 11 of 61
+- **Practitioner**: 36 of 174
 - **Expert**: 2 of 39
 
 ## Categories Covered
@@ -15,7 +15,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **SQL injection**: 18/18 lab
 - **Path traversal**: 6/6 lab
 - **Command injection**: 5/5 lab
-- **Access control**: 0/13 lab
+- **Access control**: 6/13 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -79,3 +79,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 41 | 2026-07-03 | Command Injection | Blind OS command injection with out-of-band interaction | Practitioner | N/A |
 | 42 | 2026-07-03 | Command Injection | Blind OS command injection with out-of-band data exfiltration | Practitioner | N/A |
 | 43 | 2026-07-03 | SQL Injection | Blind SQL injection with out-of-band data exfiltration | Practitioner | N/A |
+| 44 | 2026-07-04 | Access Control | Unprotected admin functionality | Apprentice | N/A |
+| 45 | 2026-07-04 | Access Control | Unprotected admin functionality with unpredictable URL | Apprentice | N/A |
+| 46 | 2026-07-04 | Access Control | User role controlled by request parameter | Apprentice | N/A |
+| 47 | 2026-07-04 | Access Control | User role can be modified in user profile | Apprentice | N/A |
+| 48 | 2026-07-04 | Access Control | URL-based access control can be circumvented | Practitioner | N/A |
+| 49 | 2026-07-04 | Access Control | Method-based access control can be circumvented | Practitioner | N/A |
