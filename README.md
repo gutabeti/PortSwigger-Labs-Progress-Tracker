@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-49-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--04-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-17.88%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-56-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--07-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-20.44%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 11 of 61
-- **Practitioner**: 36 of 174
+- **Apprentice**: 16 of 61
+- **Practitioner**: 38 of 174
 - **Expert**: 2 of 39
 
 ## Categories Covered
@@ -15,7 +15,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **SQL injection**: 18/18 lab
 - **Path traversal**: 6/6 lab
 - **Command injection**: 5/5 lab
-- **Access control**: 6/13 lab
+- **Access control**: 13/13 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -85,3 +85,10 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 47 | 2026-07-04 | Access Control | User role can be modified in user profile | Apprentice | N/A |
 | 48 | 2026-07-04 | Access Control | URL-based access control can be circumvented | Practitioner | N/A |
 | 49 | 2026-07-04 | Access Control | Method-based access control can be circumvented | Practitioner | N/A |
+| 50 | 2026-07-07 | Access Control | User ID controlled by request parameter | Apprentice | N/A |
+| 51 | 2026-07-07 | Access Control | User ID controlled by request parameter, with unpredictable user IDs | Apprentice | N/A |
+| 52 | 2026-07-07 | Access Control | User ID controlled by request parameter with data leakage in redirect | Apprentice | N/A |
+| 53 | 2026-07-07 | Access Control | User ID controlled by request parameter with password disclosure | Apprentice | N/A |
+| 54 | 2026-07-07 | Access Control | Insecure direct object references | Apprentice | N/A |
+| 55 | 2026-07-07 | Access Control | Multi-step process with no access control on one step | Practitioner | N/A |
+| 56 | 2026-07-07 | Access Control | Referer-based access control | Practitioner | N/A |
