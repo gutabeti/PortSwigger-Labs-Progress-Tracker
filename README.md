@@ -1,11 +1,11 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-58-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--08-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-21.17%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-62-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--10-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-22.63%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 18 of 61
+- **Apprentice**: 22 of 61
 - **Practitioner**: 38 of 174
 - **Expert**: 2 of 39
 
@@ -16,7 +16,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Path traversal**: 6/6 lab
 - **Command injection**: 5/5 lab
 - **Access control**: 13/13 lab
-- **Information disclosure**: 2/5 lab
+- **Information disclosure**: 4/5 lab
+- **Business logic vulnerabilities**: 2/13 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -95,3 +96,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 56 | 2026-07-07 | Access Control | Referer-based access control | Practitioner | N/A |
 | 57 | 2026-07-08 | Information Disclosure | Information disclosure in error messages | Apprentice | N/A |
 | 58 | 2026-07-08 | Information Disclosure | Information disclosure on debug page | Apprentice | N/A |
+| 59 | 2026-07-10 | Business Logic | Excessive trust in client-side controls | Apprentice | N/A |
+| 60 | 2026-07-10 | Business Logic | High-level logic vulnerability | Apprentice | N/A |
+| 61 | 2026-07-10 | Information Disclosure | Source code disclosure via backup files | Apprentice | N/A |
+| 62 | 2026-07-10 | Information Disclosure | Authentication bypass via information disclosure | Apprentice | N/A |
