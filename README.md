@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-67-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--11-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-24.45%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-69-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--12-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-25.18%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 23 of 61
-- **Practitioner**: 42 of 174
+- **Apprentice**: 24 of 61
+- **Practitioner**: 43 of 174
 - **Expert**: 2 of 39
 
 ## Categories Covered
@@ -17,11 +17,12 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Command injection**: 5/5 lab
 - **Access control**: 13/13 lab
 - **Information disclosure**: 5/5 lab
-- **Business logic vulnerabilities**: 6/13 lab
+- **Business logic vulnerabilities**: 8/13 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
 - **Tools Used**: Burp Suite
+- Some PortSwigger labs appear in more than one topic (for example, **2FA simple bypass**, **2FA broken logic**, and **Password reset broken logic**). These labs are recorded only once in this tracker to avoid duplicate entries and to keep the total lab count accurate.
 
 ## How to Read
 - **Columns**: 
@@ -105,3 +106,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 65 | 2026-07-11 | Business Logic Vulnerabilities | Inconsistent security controls | Apprentice | N/A |
 | 66 | 2026-07-11 | Business Logic Vulnerabilities | Weak isolation on dual-use endpoint | Practitioner | N/A |
 | 67 | 2026-07-11 | Business Logic Vulnerabilities | Insufficient workflow validation | Practitioner | N/A |
+| 68 | 2026-07-12 | Business Logic Vulnerabilities | Flawed enforcement of business rules | Apprentice | N/A |
+| 69 | 2026-07-12 | Business Logic Vulnerabilities | Infinite money logic flaw | Practitioner | N/A |
