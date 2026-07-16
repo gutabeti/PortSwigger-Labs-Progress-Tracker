@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-71-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--14-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-25.91%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-73-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--16-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-26.64%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 26 of 61
-- **Practitioner**: 43 of 174
+- **Practitioner**: 45 of 174
 - **Expert**: 2 of 39
 
 ## Categories Covered
@@ -18,7 +18,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Access control**: 13/13 lab
 - **Information disclosure**: 5/5 lab
 - **Business logic vulnerabilities**: 8/13 lab
-- **File upload vulnerabilities**: 2/7 lab
+- **File upload vulnerabilities**: 4/7 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -111,3 +111,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 69 | 2026-07-12 | Business Logic Vulnerabilities | Infinite money logic flaw | Practitioner | N/A |
 | 70 | 2026-07-14 | File Upload Vulnerabilities | Remote code execution via web shell upload | Apprentice | N/A |
 | 71 | 2026-07-14 | File Upload Vulnerabilities | Web shell upload via Content-Type restriction bypass | Apprentice | N/A |
+| 72 | 2026-07-16 | File Upload Vulnerabilities | Web shell upload via path traversal | Practitioner | N/A |
+| 73 | 2026-07-16 | File Upload Vulnerabilities | Web shell upload via extension blacklist bypass | Practitioner | N/A |
