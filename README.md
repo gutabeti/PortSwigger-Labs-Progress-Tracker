@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-77-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--19-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-28.10%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-80-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--22-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-29.20%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 26 of 61
-- **Practitioner**: 49 of 174
+- **Apprentice**: 27 of 61
+- **Practitioner**: 51 of 174
 - **Expert**: 2 of 39
 
 ## Categories Covered
@@ -19,6 +19,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Information disclosure**: 5/5 lab
 - **Business logic vulnerabilities**: 10/13 lab
 - **File upload vulnerabilities**: 6/7 lab
+- **Race conditions**: 3/6 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -117,3 +118,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 75 | 2026-07-18 | File Upload Vulnerabilities | Remote code execution via polyglot web shell upload | Practitioner | N/A |
 | 76 | 2026-07-19 | Business Logic Vulnerabilities | Authentication bypass via flawed state machine | Practitioner | N/A |
 | 77 | 2026-07-19 | Business Logic Vulnerabilities | Low-level logic flaw | Practitioner | N/A |
+| 78 | 2026-07-22 | Race Conditions | Limit overrun race conditions | Apprentice | N/A |
+| 79 | 2026-07-22 | Race Conditions | Bypassing rate limits via race conditions | Practitioner | N/A |
+| 80 | 2026-07-22 | Race Conditions | Multi-endpoint race conditions | Practitioner | N/A |
