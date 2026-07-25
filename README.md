@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-84-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--24-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-30.66%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-87-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--25-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-31.75%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 29 of 61
-- **Practitioner**: 53 of 174
+- **Apprentice**: 31 of 61
+- **Practitioner**: 54 of 174
 - **Expert**: 2 of 39
 
 ## Categories Covered
@@ -20,7 +20,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Business logic vulnerabilities**: 10/13 lab
 - **File upload vulnerabilities**: 6/7 lab
 - **Race conditions**: 5/6 lab
-- **Cross-site scripting (XSS)**: 2/30 lab
+- **Cross-site scripting (XSS)**: 5/30 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -126,3 +126,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 82 | 2026-07-23 | Race Conditions | Exploiting time-sensitive vulnerabilities | Practitioner | N/A |
 | 83 | 2026-07-24 | Cross-site Scripting (XSS) | Reflected XSS into HTML context with nothing encoded | Apprentice | N/A |
 | 84 | 2026-07-24 | Cross-site Scripting (XSS) | Stored XSS into HTML context with nothing encoded | Apprentice | N/A |
+| 85 | 2026-07-25 | Cross-site Scripting (XSS) | DOM XSS in document.write sink using source location.search | Apprentice | N/A |
+| 86 | 2026-07-25 | Cross-site Scripting (XSS) | DOM XSS in document.write sink using source location.search inside a select element | Practitioner | N/A |
+| 87 | 2026-07-25 | Cross-site Scripting (XSS) | DOM XSS in innerHTML sink using source location.search | Apprentice | N/A |
