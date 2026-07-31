@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-96-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--30-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-35.04%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-99-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--31-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-36.13%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 34 of 61
-- **Practitioner**: 59 of 174
+- **Practitioner**: 62 of 174
 - **Expert**: 3 of 39
 
 ## Categories Covered
@@ -20,7 +20,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Business logic vulnerabilities**: 10/13 lab
 - **File upload vulnerabilities**: 6/7 lab
 - **Race conditions**: 5/6 lab
-- **Cross-site scripting (XSS)**: 8/30 lab
+- **Cross-site scripting (XSS)**: 11/30 lab
 - **Server-side request forgery (SSRF)**: 6/7 lab
 
 ## Notes
@@ -139,3 +139,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 94 | 2026-07-29 | Server-Side Request Forgery (SSRF) | SSRF with filter bypass via open redirection vulnerability | Practitioner | N/A |
 | 95 | 2026-07-30 | Server-Side Request Forgery (SSRF) | Blind SSRF with out-of-band detection | Practitioner | N/A |
 | 96 | 2026-07-30 | Cross-site Scripting (XSS) | Stored DOM XSS | Practitioner | N/A |
+| 97 | 2026-07-31 | Cross-site Scripting (XSS) | Exploiting cross-site scripting to steal cookies | Practitioner | N/A |
+| 98 | 2026-07-31 | Cross-site Scripting (XSS) | Exploiting cross-site scripting to capture passwords | Practitioner | N/A |
+| 99 | 2026-07-31 | Cross-site Scripting (XSS) | Exploiting XSS to bypass CSRF defenses | Practitioner | N/A |
