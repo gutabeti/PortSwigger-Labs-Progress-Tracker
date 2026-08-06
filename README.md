@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-101-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--03-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-36.86%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-104-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--06-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-37.96%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 36 of 61
-- **Practitioner**: 62 of 174
+- **Apprentice**: 37 of 61
+- **Practitioner**: 64 of 174
 - **Expert**: 3 of 39
 
 ## Categories Covered
@@ -22,6 +22,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Race conditions**: 5/6 lab
 - **Cross-site scripting (XSS)**: 13/30 lab
 - **Server-side request forgery (SSRF)**: 6/7 lab
+- **API Testing**: 3/5 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -144,3 +145,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 99 | 2026-07-31 | Cross-site Scripting (XSS) | Exploiting XSS to bypass CSRF defenses | Practitioner | N/A |
 | 100 | 2026-08-03 | Cross-site Scripting (XSS) | Reflected XSS into attribute with angle brackets HTML-encoded | Apprentice | N/A |
 | 101 | 2026-08-03 | Cross-site Scripting (XSS) | Stored XSS into anchor href attribute with double quotes HTML-encoded | Apprentice | N/A |
+| 102 | 2026-08-06 | API Testing | Exploiting an API endpoint using documentation | Apprentice | N/A |
+| 103 | 2026-08-06 | API Testing | Finding and exploiting an unused API endpoint | Practitioner | N/A |
+| 104 | 2026-08-06 | API Testing | Exploiting a mass assignment vulnerability | Practitioner | N/A |
