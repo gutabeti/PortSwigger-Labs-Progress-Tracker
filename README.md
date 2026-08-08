@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-106-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--07-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-38.69%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-108-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--08-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-39.42%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 37 of 61
-- **Practitioner**: 65 of 174
+- **Apprentice**: 38 of 61
+- **Practitioner**: 66 of 174
 - **Expert**: 4 of 39
 
 ## Categories Covered
@@ -23,6 +23,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Cross-site scripting (XSS)**: 13/30 lab
 - **Server-side request forgery (SSRF)**: 6/7 lab
 - **API Testing**: 5/5 lab
+- **GraphQL API**: 2/5 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -150,3 +151,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 104 | 2026-08-06 | API Testing | Exploiting a mass assignment vulnerability | Practitioner | N/A |
 | 105 | 2026-08-07 | API Testing | Exploiting server-side parameter pollution in a query string | Practitioner | N/A |
 | 106 | 2026-08-07 | API Testing | Exploiting server-side parameter pollution in a REST URL | Expert | N/A |
+| 107 | 2026-08-08 | GraphQL API | Accessing private GraphQL posts | Apprentice | N/A |
+| 108 | 2026-08-08 | GraphQL API | Accidental exposure of private GraphQL fields | Practitioner | N/A |
