@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-108-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--08-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-39.42%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-111-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--11-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-40.51%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 38 of 61
-- **Practitioner**: 66 of 174
+- **Practitioner**: 69 of 174
 - **Expert**: 4 of 39
 
 ## Categories Covered
@@ -20,7 +20,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Business logic vulnerabilities**: 10/13 lab
 - **File upload vulnerabilities**: 6/7 lab
 - **Race conditions**: 5/6 lab
-- **Cross-site scripting (XSS)**: 13/30 lab
+- **Cross-site scripting (XSS)**: 16/30 lab
 - **Server-side request forgery (SSRF)**: 6/7 lab
 - **API Testing**: 5/5 lab
 - **GraphQL API**: 2/5 lab
@@ -153,3 +153,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 106 | 2026-08-07 | API Testing | Exploiting server-side parameter pollution in a REST URL | Expert | N/A |
 | 107 | 2026-08-08 | GraphQL API | Accessing private GraphQL posts | Apprentice | N/A |
 | 108 | 2026-08-08 | GraphQL API | Accidental exposure of private GraphQL fields | Practitioner | N/A |
+| 109 | 2026-08-11 | Cross-site Scripting (XSS) | Reflected XSS into HTML context with most tags and attributes blocked | Practitioner | N/A |
+| 110 | 2026-08-11 | Cross-site Scripting (XSS) | Reflected XSS into HTML context with all tags blocked except custom ones | Practitioner | N/A |
+| 111 | 2026-08-11 | Cross-site Scripting (XSS) | Reflected XSS with some SVG markup allowed | Practitioner | N/A |
