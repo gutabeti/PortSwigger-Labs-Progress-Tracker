@@ -1,13 +1,13 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-115-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--13-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-41.97%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-121-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--14-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-44.16%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 39 of 61
-- **Practitioner**: 72 of 174
-- **Expert**: 4 of 39
+- **Practitioner**: 77 of 174
+- **Expert**: 5 of 39
 
 ## Categories Covered
 
@@ -20,10 +20,10 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Business logic vulnerabilities**: 10/13 lab
 - **File upload vulnerabilities**: 6/7 lab
 - **Race conditions**: 5/6 lab
-- **Cross-site scripting (XSS)**: 20/30 lab
+- **Cross-site scripting (XSS)**: 23/30 lab
 - **Server-side request forgery (SSRF)**: 6/7 lab
 - **API Testing**: 5/5 lab
-- **GraphQL API**: 2/5 lab
+- **GraphQL API**: 5/5 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -160,3 +160,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 113 | 2026-08-12 | Cross-site Scripting (XSS) | Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped | Practitioner | N/A |
 | 114 | 2026-08-13 | Cross-site Scripting (XSS) | Reflected XSS into a JavaScript string with angle brackets HTML encoded | Apprentice | N/A |
 | 115 | 2026-08-13 | Cross-site Scripting (XSS) | Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped | Practitioner | N/A |
+| 116 | 2026-08-14 | GraphQL API | Performing CSRF exploits over GraphQL | Practitioner | N/A |
+| 117 | 2026-08-14 | GraphQL API | Finding a hidden GraphQL endpoint | Practitioner | N/A |
+| 118 | 2026-08-14 | GraphQL API | Bypassing GraphQL brute force protections | Practitioner | N/A |
+| 119 | 2026-08-14 | Cross-site Scripting (XSS) | Reflected XSS with event handlers and href attributes blocked | Expert | N/A |
+| 120 | 2026-08-14 | Cross-site Scripting (XSS) | Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped | Practitioner | N/A |
+| 121 | 2026-08-14 | Cross-site Scripting (XSS) | Reflected XSS into a JavaScript string with single quote and backslash escaped | Practitioner | N/A |
