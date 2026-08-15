@@ -1,13 +1,13 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-121-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--14-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-44.16%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-123-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--15-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-44.89%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 39 of 61
+- **Apprentice**: 40 of 61
 - **Practitioner**: 77 of 174
-- **Expert**: 5 of 39
+- **Expert**: 6 of 39
 
 ## Categories Covered
 
@@ -20,7 +20,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Business logic vulnerabilities**: 10/13 lab
 - **File upload vulnerabilities**: 6/7 lab
 - **Race conditions**: 5/6 lab
-- **Cross-site scripting (XSS)**: 23/30 lab
+- **Cross-site scripting (XSS)**: 25/30 lab
 - **Server-side request forgery (SSRF)**: 6/7 lab
 - **API Testing**: 5/5 lab
 - **GraphQL API**: 5/5 lab
@@ -166,3 +166,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 119 | 2026-08-14 | Cross-site Scripting (XSS) | Reflected XSS with event handlers and href attributes blocked | Expert | N/A |
 | 120 | 2026-08-14 | Cross-site Scripting (XSS) | Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped | Practitioner | N/A |
 | 121 | 2026-08-14 | Cross-site Scripting (XSS) | Reflected XSS into a JavaScript string with single quote and backslash escaped | Practitioner | N/A |
+| 122 | 2026-08-15 | Cross-site Scripting (XSS) | Reflected XSS in a JavaScript URL with some characters blocked | Expert | N/A |
+| 123 | 2026-08-15 | Cross-site Scripting (XSS) | DOM XSS in jQuery selector sink using a hashchange event | Apprentice | N/A |
