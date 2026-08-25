@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-124-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--16-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-45.26%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-126-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--25-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-45.99%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 40 of 61
-- **Practitioner**: 78 of 174
+- **Apprentice**: 41 of 61
+- **Practitioner**: 79 of 174
 - **Expert**: 6 of 39
 
 ## Categories Covered
@@ -24,6 +24,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Server-side request forgery (SSRF)**: 6/7 lab
 - **API Testing**: 5/5 lab
 - **GraphQL API**: 5/5 lab
+- **Cross-site request forgery (CSRF)**: 2/12 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -169,3 +170,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 122 | 2026-08-15 | Cross-site Scripting (XSS) | Reflected XSS in a JavaScript URL with some characters blocked | Expert | N/A |
 | 123 | 2026-08-15 | Cross-site Scripting (XSS) | DOM XSS in jQuery selector sink using a hashchange event | Apprentice | N/A |
 | 124 | 2026-08-16 | Cross-site Scripting (XSS) | DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded | Practitioner | N/A |
+| 125 | 2026-08-25 | Cross-Site Request Forgery (CSRF) | CSRF vulnerability with no defenses | Apprentice | N/A |
+| 126 | 2026-08-25 | Cross-Site Request Forgery (CSRF) | CSRF where token validation depends on request method | Practitioner | N/A |
