@@ -1,11 +1,11 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-138-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--04-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-50.36%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-140-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--05-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-51.09%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 41 of 61
+- **Apprentice**: 43 of 61
 - **Practitioner**: 91 of 174
 - **Expert**: 6 of 39
 
@@ -26,6 +26,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **GraphQL API**: 5/5 lab
 - **Cross-site request forgery (CSRF)**: 8/12 lab
 - **Server-side template injection (SSTI)**: 6/7 lab
+- **WebSockets**: 1/3 lab
+- **NoSQL injection**: 1/4 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -185,3 +187,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 136 | 2026-09-03 | Server-Side Template Injection | Server-side template injection using documentation | Practitioner | N/A |
 | 137 | 2026-09-04 | Server-Side Template Injection | Server-side template injection with information disclosure via user-supplied objects | Practitioner | N/A |
 | 138 | 2026-09-04 | Server-Side Template Injection | Server-side template injection using documentation | Practitioner | N/A |
+| 139 | 2026-09-05 | WebSockets | Manipulating WebSocket messages to exploit vulnerabilities | Apprentice | N/A |
+| 140 | 2026-09-05 | NoSQL Injection | Exploiting NoSQL operator injection to bypass authentication | Apprentice | N/A |
