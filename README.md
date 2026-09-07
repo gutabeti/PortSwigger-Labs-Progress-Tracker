@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-140-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--05-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-51.09%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-142-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--07-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-51.82%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 43 of 61
-- **Practitioner**: 91 of 174
+- **Apprentice**: 44 of 61
+- **Practitioner**: 92 of 174
 - **Expert**: 6 of 39
 
 ## Categories Covered
@@ -27,7 +27,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Cross-site request forgery (CSRF)**: 8/12 lab
 - **Server-side template injection (SSTI)**: 6/7 lab
 - **WebSockets**: 1/3 lab
-- **NoSQL injection**: 1/4 lab
+- **NoSQL injection**: 2/4 lab
+- **HTTP request smuggling**: 1/22 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -189,3 +190,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 138 | 2026-09-04 | Server-Side Template Injection | Server-side template injection using documentation | Practitioner | N/A |
 | 139 | 2026-09-05 | WebSockets | Manipulating WebSocket messages to exploit vulnerabilities | Apprentice | N/A |
 | 140 | 2026-09-05 | NoSQL Injection | Exploiting NoSQL operator injection to bypass authentication | Apprentice | N/A |
+| 141 | 2026-09-07 | NoSQL Injection | Detecting NoSQL injection | Apprentice | N/A |
+| 142 | 2026-09-07 | HTTP Request Smuggling | HTTP request smuggling, basic CL.TE vulnerability | Practitioner | N/A |
