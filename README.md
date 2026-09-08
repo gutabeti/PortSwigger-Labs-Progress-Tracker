@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-142-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--07-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-51.82%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-146-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--08-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-53.28%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 44 of 61
-- **Practitioner**: 92 of 174
+- **Practitioner**: 96 of 174
 - **Expert**: 6 of 39
 
 ## Categories Covered
@@ -28,7 +28,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Server-side template injection (SSTI)**: 6/7 lab
 - **WebSockets**: 1/3 lab
 - **NoSQL injection**: 2/4 lab
-- **HTTP request smuggling**: 1/22 lab
+- **HTTP request smuggling**: 5/22 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -192,3 +192,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 140 | 2026-09-05 | NoSQL Injection | Exploiting NoSQL operator injection to bypass authentication | Apprentice | N/A |
 | 141 | 2026-09-07 | NoSQL Injection | Detecting NoSQL injection | Apprentice | N/A |
 | 142 | 2026-09-07 | HTTP Request Smuggling | HTTP request smuggling, basic CL.TE vulnerability | Practitioner | N/A |
+| 143 | 2026-09-08 | HTTP Request Smuggling | HTTP request smuggling, basic TE.CL vulnerability | Practitioner | N/A |
+| 144 | 2026-09-08 | HTTP Request Smuggling | HTTP request smuggling, obfuscating the TE header | Practitioner | N/A |
+| 145 | 2026-09-08 | HTTP Request Smuggling | HTTP request smuggling, confirming a CL.TE vulnerability via differential responses | Practitioner | N/A |
+| 146 | 2026-09-08 | HTTP Request Smuggling | HTTP request smuggling, confirming a TE.CL vulnerability via differential responses | Practitioner | N/A |
