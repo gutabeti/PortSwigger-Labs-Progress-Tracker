@@ -1,11 +1,11 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-150-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--09-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-54.74%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-152-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--10-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-55.47%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 44 of 61
+- **Apprentice**: 46 of 61
 - **Practitioner**: 100 of 174
 - **Expert**: 6 of 39
 
@@ -29,6 +29,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **WebSockets**: 1/3 lab
 - **NoSQL injection**: 2/4 lab
 - **HTTP request smuggling**: 9/22 lab
+- **XXE injection**: 2/9 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -200,3 +201,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 148 | 2026-09-09 | HTTP Request Smuggling | Exploiting HTTP request smuggling to bypass front-end security controls, TE.CL vulnerability | Practitioner | N/A |
 | 149 | 2026-09-09 | HTTP Request Smuggling | Exploiting HTTP request smuggling to reveal front-end request rewriting | Practitioner | N/A |
 | 150 | 2026-09-09 | HTTP Request Smuggling | Exploiting HTTP request smuggling to deliver reflected XSS | Practitioner | N/A |
+| 151 | 2026-09-10 | XXE Injection | Exploiting XXE using external entities to retrieve files | Apprentice | N/A |
+| 152 | 2026-09-10 | XXE Injection | Exploiting XXE to perform SSRF attacks | Apprentice | N/A |
