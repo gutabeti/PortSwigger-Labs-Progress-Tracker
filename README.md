@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-152-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--10-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-55.47%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-154-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--11-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-56.20%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 46 of 61
-- **Practitioner**: 100 of 174
+- **Practitioner**: 102 of 174
 - **Expert**: 6 of 39
 
 ## Categories Covered
@@ -29,7 +29,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **WebSockets**: 1/3 lab
 - **NoSQL injection**: 2/4 lab
 - **HTTP request smuggling**: 9/22 lab
-- **XXE injection**: 2/9 lab
+- **XXE injection**: 4/9 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -203,3 +203,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 150 | 2026-09-09 | HTTP Request Smuggling | Exploiting HTTP request smuggling to deliver reflected XSS | Practitioner | N/A |
 | 151 | 2026-09-10 | XXE Injection | Exploiting XXE using external entities to retrieve files | Apprentice | N/A |
 | 152 | 2026-09-10 | XXE Injection | Exploiting XXE to perform SSRF attacks | Apprentice | N/A |
+| 153 | 2026-09-11 | XXE Injection | Exploiting XInclude to retrieve files | Practitioner | N/A |
+| 154 | 2026-09-11 | XXE Injection | Exploiting XXE via image file upload | Practitioner | N/A |
