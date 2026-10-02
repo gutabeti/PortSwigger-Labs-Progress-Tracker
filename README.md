@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-158-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--12-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-57.66%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-160-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--02-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-58.39%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 46 of 61
-- **Practitioner**: 106 of 174
+- **Practitioner**: 108 of 174
 - **Expert**: 6 of 39
 
 ## Categories Covered
@@ -30,6 +30,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **NoSQL injection**: 2/4 lab
 - **HTTP request smuggling**: 9/22 lab
 - **XXE injection**: 8/9 lab
+- **DOM-based vulnerabilities**: 2/7 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -209,3 +210,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 156 | 2026-09-12 | XXE Injection | Blind XXE with out-of-band interaction via XML parameter entities | Practitioner | N/A |
 | 157 | 2026-09-12 | XXE Injection | Exploiting blind XXE to exfiltrate data using a malicious external DTD | Practitioner | N/A |
 | 158 | 2026-09-12 | XXE Injection | Exploiting blind XXE to retrieve data via error messages | Practitioner | N/A |
+| 159 | 2026-10-02 | DOM-based vulnerabilities | DOM-based open redirection | Practitioner | N/A |
+| 160 | 2026-10-02 | DOM-based vulnerabilities | DOM XSS using web messages | Practitioner | N/A |
