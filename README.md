@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-164-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--07-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-59.85%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-165-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--08-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-60.22%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 47 of 61
-- **Practitioner**: 111 of 174
+- **Practitioner**: 112 of 174
 - **Expert**: 6 of 39
 
 ## Categories Covered
@@ -31,7 +31,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **HTTP request smuggling**: 9/22 lab
 - **XXE injection**: 8/9 lab
 - **DOM-based vulnerabilities**: 5/7 lab
-- **Insecure deserialization**: 1 lab
+- **Insecure deserialization**: 2 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -217,3 +217,4 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 162 | 2026-10-04 | DOM-based vulnerabilities | DOM-based cookie manipulation | Practitioner | N/A |
 | 163 | 2026-10-05 | DOM-based vulnerabilities | DOM XSS using web messages and JSON.parse | Practitioner | N/A |
 | 164 | 2026-10-07 | Insecure Deserialization | Modifying serialized objects | Apprentice | N/A |
+| 165 | 2026-10-08 | Insecure Deserialization | Modifying serialized data types | Practitioner | N/A |
