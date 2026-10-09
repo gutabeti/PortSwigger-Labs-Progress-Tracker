@@ -1,11 +1,11 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-165-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--08-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-60.22%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-166-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--09-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-60.58%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 47 of 61
+- **Apprentice**: 48 of 61
 - **Practitioner**: 112 of 174
 - **Expert**: 6 of 39
 
@@ -32,6 +32,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **XXE injection**: 8/9 lab
 - **DOM-based vulnerabilities**: 5/7 lab
 - **Insecure deserialization**: 2 lab
+- **Host header attacks**: 1 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -218,3 +219,4 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 163 | 2026-10-05 | DOM-based vulnerabilities | DOM XSS using web messages and JSON.parse | Practitioner | N/A |
 | 164 | 2026-10-07 | Insecure Deserialization | Modifying serialized objects | Apprentice | N/A |
 | 165 | 2026-10-08 | Insecure Deserialization | Modifying serialized data types | Practitioner | N/A |
+| 166 | 2026-10-09 | HTTP Host Header Attacks | Host header authentication bypass | Apprentice | N/A |
