@@ -1,11 +1,11 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-169-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--13-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-61.68%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-170-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--14-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-62.04%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 49 of 61
+- **Apprentice**: 50 of 61
 - **Practitioner**: 114 of 174
 - **Expert**: 6 of 39
 
@@ -31,9 +31,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **HTTP request smuggling**: 9/22 lab
 - **XXE injection**: 8/9 lab
 - **DOM-based vulnerabilities**: 5/7 lab
-- **Insecure deserialization**: 4 lab
+- **Insecure deserialization**: 4/10 lab
 - **Host header attacks**: 1 lab
-- **JSON Web Tokens (JWT)**: 1 lab
+- **JSON Web Tokens (JWT)**: 2/8 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -224,3 +224,4 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 167 | 2026-10-10 | Insecure Deserialization | Arbitrary object injection in PHP | Practitioner | N/A |
 | 168 | 2026-10-12 | Insecure Deserialization | Using application functionality to exploit insecure deserialization | Practitioner | N/A |
 | 169 | 2026-10-13 | JSON Web Tokens (JWT) | JWT authentication bypass via unverified signature | Apprentice | N/A |
+| 170 | 2026-10-14 | JSON Web Tokens (JWT) | JWT authentication bypass via flawed signature verification | Apprentice | N/A |
