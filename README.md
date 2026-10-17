@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-172-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--16-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-62.77%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-173-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--17-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-63.14%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 50 of 61
-- **Practitioner**: 115 of 174
+- **Practitioner**: 116 of 174
 - **Expert**: 7 of 39
 
 ## Categories Covered
@@ -28,7 +28,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Server-side template injection (SSTI)**: 6/7 lab
 - **WebSockets**: 1/3 lab
 - **NoSQL injection**: 2/4 lab
-- **HTTP request smuggling**: 9/22 lab
+- **HTTP request smuggling**: 10/22 lab
 - **XXE injection**: 9/9 lab
 - **DOM-based vulnerabilities**: 5/7 lab
 - **Insecure deserialization**: 5/10 lab
@@ -227,3 +227,4 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 170 | 2026-10-14 | JSON Web Tokens (JWT) | JWT authentication bypass via flawed signature verification | Apprentice | N/A |
 | 171 | 2026-10-15 | Insecure Deserialization | Exploiting Java deserialization with Apache Commons | Practitioner | N/A |
 | 172 | 2026-10-16 | XXE | Exploiting XXE to retrieve data by repurposing a local DTD | Expert | N/A |
+| 173 | 2026-10-17 | HTTP Request Smuggling | CL.0 request smuggling | Practitioner | N/A |
